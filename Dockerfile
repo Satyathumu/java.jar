@@ -1,4 +1,4 @@
 FROM openjdk:8-alpine
-ADD **/*.jar koti.jar 
-CMD  ["java","-jar","./koti.jar"]
+ADD **/*.jar kittu.jar 
+CMD  ["java","-jar","./kittu.jar"]
 EXPOSE 8080
