@@ -1,3 +1,16 @@
+# how to build 
+mvn clean install
+
+# how to deploy
+
+java -jar spring-boot-docker-app.jar
+
+
+
+
+
+
+
   
 # Simple Spring Boot with Docker Application#
 
